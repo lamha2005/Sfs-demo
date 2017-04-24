@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="libs/netty-3.9.0.Final.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="libs/amqp-client-3.5.4.jar" sourcepath="C:/Users/lamhm/.m2/repository/com/rabbitmq/amqp-client/3.5.4/amqp-client-3.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.32.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="libs/couchbase/core-io-1.2.5.jar"/>
+	<classpathentry kind="lib" path="libs/couchbase/rxjava-core-0.20.7.jar"/>
+	<classpathentry kind="lib" path="libs/couchbase/rxjava-1.1.5.jar"/>
+	<classpathentry kind="lib" path="libs/couchbase/java-client-2.2.5.jar" sourcepath="libs/couchbase/java-client-2.2.5-sources.zip"/>
+	<classpathentry kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/sfs2x-core.jar" sourcepath="libs/sfs2x-core.zip"/>
+	<classpathentry kind="lib" path="libs/sfs2x.jar" sourcepath="libs/sfs2x.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
